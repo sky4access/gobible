@@ -103,7 +103,7 @@ func (m BibleDB) QueryBible(book string, chapter int, verses ...int) (string, []
 	var q *goqu.Dataset
 
 	bookNumber := BooksByName[book]
-	bookNameStr := BooksByNumber[bookNumber]
+	bookNameStr := strings.TrimSpace(BooksByNumber[bookNumber])
 	bookNameArr := strings.Split(bookNameStr, ",")
 	if len(bookNameArr) != 2 {
 		log.Fatalf("there as problem gettin book %v from %v\n", book, m.inputFile)
@@ -132,7 +132,7 @@ func (m BibleDB) QueryBible(book string, chapter int, verses ...int) (string, []
 				goqu.I("chapter").Eq(chapter),
 				goqu.I("verse").Gte(verses[0]),
 				goqu.I("verse").Lte(verses[1]))
-		entryName = fmt.Sprintf("%v %v:%v-%v\n", bookNameStr, chapter, verses[0], verses[1])
+		entryName = fmt.Sprintf("%v %v:%v-%v\n", bookName, chapter, verses[0], verses[1])
 	} else {
 		q = nil
 	}
