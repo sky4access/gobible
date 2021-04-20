@@ -1,4 +1,2 @@
 # gobible
-This is place holder for new project called gobible.
-This will be second version of bible extractor. 
-
+This is second version of Bible extractor. It exracts both KRV and ESV version of bible text from sqllite database.
