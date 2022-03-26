@@ -25,6 +25,7 @@
 - James 1:17 (17)<f>ⓩ</f> Every good gift and every perfect gift is from above, coming down from <f>ⓐ</f>the Father of lights, <f>ⓑ</f>with whom there is no variation or shadow due to change. <f>[4]</f>
 - Romans 5:8 (8)but <f>ⓛ</f>God shows his love for us in that <f>ⓜ</f>while we were still sinners, Christ died for us.
 - John 3:16 (16)<pb/><J>“For <f>ⓑ</f>God so loved <f>ⓒ</f>the world, <f>[9]</f> <f>ⓓ</f>that he gave his only Son, that whoever believes in him should not <f>ⓔ</f>perish but have eternal life.</J>
+- 1 John 3:16 (16)<pb/>By this we know love, that <f>ⓖ</f>he laid down his life for us, and <f>ⓗ</f>we ought to lay down our lives for the brothers.
 - Titus 1:2 (2)<f>ⓓ</f> in hope of eternal life, which God, <f>ⓔ</f>who never lies, <f>ⓕ</f>promised <f>ⓖ</f>before the ages began <f>[2]</f>
 - Philippians 2:15 (15)that you may be blameless and innocent, <f>ⓖ</f>children of God <f>ⓗ</f>without blemish <f>ⓘ</f>in the midst of <f>ⓙ</f>a crooked and twisted generation, among whom you shine <f>ⓚ</f>as lights in the world,
 - Deuteronomy 32:4 (4)<pb/><t><f>ⓕ</f> “The Rock, <f>ⓖ</f>his work is perfect, </t><t>for <f>ⓗ</f>all his ways are justice. </t><t>A God of faithfulness and <f>ⓘ</f>without iniquity, </t><t>just and upright is he.</t>
