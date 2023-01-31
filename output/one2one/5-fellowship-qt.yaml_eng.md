@@ -1,5 +1,9 @@
 #  II. Fellowship. The Theory and practice of Quiet Time (QT)
 
+## Memory Verses
+- Psalms 1:2-3 (2)<t>but his <f>ⓖ</f>delight is in the law <f>[2]</f> of the LORD, </t><t>and on his <f>ⓗ</f>law he meditates day and night. </t>(3)<pb/><t>He is like <f>ⓘ</f>a tree </t><t>planted by <f>ⓙ</f>streams of water </t><t>that yields its fruit in its season, </t><t>and its <f>ⓚ</f>leaf does not wither. </t><t><f>ⓛ</f>In all that he does, he prospers.</t>
+- Joshua 1:8 (8)This Book of the Law shall not depart from your mouth, but <f>ⓜ</f>you shall meditate on it day and night, so that you may be careful to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success.
+
 ## Verses
 - Matthew 4:23 (23)<pb/><f>ⓚ</f> And he went throughout all Galilee, <f>ⓛ</f>teaching in their synagogues and <f>ⓜ</f>proclaiming the gospel of the kingdom and <f>ⓝ</f>healing every disease and every affliction among the people.
 - Luke 5:15-16 (15)<f>ⓣ</f> But now even more the report about him went abroad, and great crowds gathered to hear him and to be healed of their infirmities.(16)But <f>ⓤ</f>he would withdraw to desolate places and <f>ⓥ</f>pray.

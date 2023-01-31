@@ -1,5 +1,9 @@
 #  Encounter 3. What is Jesus doing now?
 
+## Memory Verses
+- Romans 1:22 (22)<f>ⓞ</f> Claiming to be wise, they became fools,
+- Ephesians 1:22 (22)And <f>ⓔ</f>he put all things under his feet and gave him as <f>ⓕ</f>head over all things to the church,
+
 ## Verses
 - Matthew 16:21 (21)<pb/><f>ⓛ</f> From that time Jesus began to show his disciples that <f>ⓜ</f>he must go to Jerusalem and <f>ⓝ</f>suffer many things from the elders and chief priests and scribes, and be killed, and on <f>ⓞ</f>the third day be raised.
 - 1 Corinthians 15:3-8 (3)<pb/>For <f>ⓕ</f>I delivered to you as of first importance what I also received: that Christ died <f>ⓖ</f>for our sins <f>ⓗ</f>in accordance with the Scriptures,(4)that he was buried, that he was raised <f>ⓘ</f>on the third day <f>ⓙ</f>in accordance with the Scriptures,(5)and that <f>ⓚ</f>he appeared to Cephas, then <f>ⓛ</f>to the twelve.(6)Then he appeared to more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep.(7)Then he appeared to <f>ⓜ</f>James, then <f>ⓝ</f>to all the apostles.(8)Last of all, as to one untimely born, <f>ⓞ</f>he appeared also to me.

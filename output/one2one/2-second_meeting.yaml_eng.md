@@ -1,5 +1,8 @@
 #  Encounter 2. What kind of work did Jesus do
 
+## Memory Verses
+- Isaiah 53:5-6 (5)<t><f>ⓘ</f> But he was pierced for our transgressions; </t><t>he was crushed for our iniquities; </t><t>upon him was the chastisement that brought us peace, </t><t><f>ⓙ</f>and with his wounds we are healed.</t>(6)<t><f>ⓚ</f> All we like sheep have gone astray; </t><t>we have turned — every one — to his own way; </t><t><f>ⓛ</f>and the LORD has laid on him </t><t>the iniquity of us all. </t>
+
 ## Verses
 - John 21:15 (15)<pb/>When they had <f>ⓣ</f>finished breakfast, Jesus said to Simon Peter, <J> <f>ⓤ</f>“Simon, <f>ⓥ</f>son of John, <f>ⓦ</f>do you love me more than these?”</J> He said to him, “Yes, Lord; you know that I love you.” He said to him, <J>“Feed <f>ⓧ</f>my lambs.”</J>
 - Matthew 11:2-6 (2)<pb/><f>ⓐ</f> Now when John heard <f>ⓑ</f>in prison about the deeds of <f>ⓒ</f>the Christ, he sent word by <f>ⓓ</f>his disciples(3)and said to him, “Are you <f>ⓔ</f>the one who is to come, or shall we <f>ⓕ</f>look for another?”(4)And Jesus answered them, <J>“Go and tell John what you hear and see:</J>(5)<J><f>ⓖ</f> the blind receive their sight and the lame walk, lepers <f>[1]</f> are cleansed and the deaf hear, and the dead are raised up, and <f>ⓗ</f>the poor have good news preached to them.</J>(6)<J>And blessed is the one who <f>ⓘ</f>is not offended by me.”</J>

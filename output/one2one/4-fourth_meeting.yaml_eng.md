@@ -1,5 +1,9 @@
 #  Encounter 4. Believing in Jesus Christ
 
+## Memory Verses
+- John 1:12 (12)But to all who did receive him, <f>ⓢ</f>who believed in his name, <f>ⓣ</f>he gave the right <f>ⓤ</f>to become <f>ⓥ</f>children of God,
+- John 3:16 (16)<pb/><J>“For <f>ⓑ</f>God so loved <f>ⓒ</f>the world, <f>[9]</f> <f>ⓓ</f>that he gave his only Son, that whoever believes in him should not <f>ⓔ</f>perish but have eternal life.</J>
+
 ## Verses
 - John 4:16 (16)<pb/>Jesus said to her, <J>“Go, <f>ⓞ</f>call your husband, and come here.”</J>
 - Romans 10:9-10 (9)because, if <f>ⓛ</f>you confess with your mouth that Jesus is Lord and <f>ⓜ</f>believe in your heart <f>ⓝ</f>that God raised him from the dead, you will be saved.(10)For with the heart one believes and is justified, and with the mouth one confesses and is saved.
